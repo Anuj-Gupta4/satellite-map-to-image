@@ -1,0 +1,9 @@
+__pycache__
+*.py[cod]
+*$py.class
+.pyc
+db.sqlite3
+.env
+.ipynb_checkpoints
+venv
+model_010960.h5
